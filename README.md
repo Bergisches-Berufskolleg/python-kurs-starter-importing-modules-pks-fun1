@@ -1,5 +1,5 @@
 # Python: Import
-In Python kannst du Module importieren und deren Funktionen nutzen, um deinen Code zu organisieren und wiederverwendbar zu machen. Ein Modul ist eigentlich nur eine Python Datei, so wie wir sie in den vorherigen Übungen bereits geschrieben haben. Hier ist eine einfache Anleitung, wie du so eine Datei (Modul) importieren und nutzen kannst.
+In Python kannst du Module importieren und deren Funktionen nutzen, um deinen Code zu organisieren und wieder verwendbar zu machen. Ein Modul ist eigentlich nur eine Python Datei, so wie wir sie in den vorherigen Übungen bereits geschrieben haben. Hier ist eine einfache Anleitung, wie du so eine Datei (Modul) importieren und nutzen kannst.
 
 ## Gesamtes Modul importieren
 Du kannst ein Modul mit dem import-Schlüsselwort importieren.
